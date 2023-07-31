@@ -1,0 +1,1 @@
+# TCC-Eficiencia_RedesNeurais_PrevisaoSeriesFinanceiras
